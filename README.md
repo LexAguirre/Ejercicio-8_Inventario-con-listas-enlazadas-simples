@@ -1,6 +1,6 @@
 ![Logo](img/ucol-logo.jpg)
 
-# Ejercicio 7: Crear App para control un inventario (método Listar)
+# Ejercicio 8: Inventario con listas enlazadas simples
 
 > Primera Parcial
 
@@ -13,9 +13,10 @@
 
 ## OBJETIVO
 
-Sobre el código trabajando en la sesión del 29 de septiembre (clase persona y clase grupo, usando listas enlazadas) se deberá trabajar el método listar() que devuelva una cadena de texto con la información de los elementos que están en el grupo.
+Utilizando el mismo ejercicio de Inventario con que se ha venido trabajando se va a implementar un cambio en la estructura de datos para utilizar listas enlazadas simples, se va a considerar un ejemplo similar al primer ejercicio en donde los productos se acomodaban de acuerdo al orden en que llegaran (no es necesario ordenar) y por lo tanto si existe la opción de insertar un nuevo producto en determinada posición.
+Recordar que se deben usar por lo menos las clases del Producto, la del Inventario y la de la Aplicación (interacción con el DOM HTML)
 
-> ENTREGA: MARTES 05 DE OCTUBRE DEL 2021
+> ENTREGA: MARTES 19 DE OCTUBRE DEL 2021
 
 ## EXPLICACIÓN DEL PROCESO
 
